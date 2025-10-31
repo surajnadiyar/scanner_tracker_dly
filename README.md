@@ -17,4 +17,4 @@ Maps numeric off-roll scanner IDs to names for accountability.
 - `daily_scans.csv` – Sample input
 - `offroll_mapping.csv` – Mapping
 
-Built at Delhivery Hyderabad. Ready for WMS integration.
+Built at Delhivery Hyderabad (with dummy data). Ready for WMS integration.
